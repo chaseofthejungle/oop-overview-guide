@@ -25,3 +25,7 @@ Four object attributes that unite OOP languages (and will be discussed in-depth 
 **Constructors versus Destructors:** Constructors are methods that initialize object state. They have the same names as the classes they operate for, and do not have return types. Destructors, on the other hand, are methods that are automatically called if an object is to be destroyed (when this will be determined varies by OOP language). Although they also contain their class names, they also have tildes (~) before their names. The OOP language *Java* has a built-in 'garbage collection' functionality that handles this behavior automatically; therefore, destructors are not necessary in that language.
   
 **Manipulators:** Some OOP languages (such as C++) include manipulator functions, which are used in tandem with the insertion (<<) and extraction (>>) operators to modify input and output data stream operations. A couple examples include the C++ 'endl' and 'scientific'  manipulators, which insert a newline (and flush the output stream) and format numbers to appear in scientific notation, respectively. 
+
+<hr />
+  
+TODO: Add details on overloading, overriding, access modifiers, static versus nonstatic, and try/catch/finally blocks.
