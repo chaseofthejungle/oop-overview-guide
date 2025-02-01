@@ -1,6 +1,10 @@
 # Object-Oriented Programming (OOP) Overview Guide
 **Definition/Overview:** Object-Oriented Programming (OOP) languages are contemporary programming languages based around the principle of creating objects as instances of classes. A *class* is similar to a blueprint (or a template) that contains instructions for variables and methods that an *object* will have assigned to it (defining such characteristics as the object's behavior, identity, and state). If you are new one or more of these concepts, they will be discussed later in this guide!
 
+<hr />
+  
+## 1. OOP Attributes
+  
 Four object attributes that unite OOP languages (and will be discussed in-depth in this guide) include:  
   
 * **Abstraction**
@@ -20,7 +24,7 @@ Four object attributes that unite OOP languages (and will be discussed in-depth 
 
 <hr />
   
-# Special Functions and Methods
+# 2. Special Functions and Methods
   
 **Constructors versus Destructors:** Constructors are methods that initialize object state. They have the same names as the classes they operate for, and do not have return types. Destructors, on the other hand, are methods that are automatically called if an object is to be destroyed (when this will be determined varies by OOP language). Although they also contain their class names, they also have tildes (~) before their names. The OOP language *Java* has a built-in 'garbage collection' functionality that handles this behavior automatically; therefore, destructors are not necessary in that language.
   
