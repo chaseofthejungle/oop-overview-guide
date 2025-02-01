@@ -1,6 +1,11 @@
 # Object-Oriented Programming (OOP) Overview Guide
 **Definition/Overview:** Object-Oriented Programming (OOP) languages are contemporary programming languages based around the principle of creating objects as instances of classes. A *class* is similar to a blueprint (or a template) that contains instructions for variables and methods that an *object* will have assigned to it (defining such characteristics as the object's behavior, identity, and state). If you are new one or more of these concepts, they will be discussed later in this guide!
-
+  
+#### Table of Contents:
+  
+1. OOP Attributes
+2. Special Functions and Methods
+  
 <hr />
   
 ## 1. OOP Attributes
