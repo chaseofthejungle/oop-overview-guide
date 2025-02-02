@@ -3,12 +3,12 @@
   
 #### Table of Contents:
   
-1. OOP Attributes
-2. Special Functions and Methods
+1. [OOP Attributes](#oop-attributes)
+2. [Special Functions and Methods](#special-functions-and-methods)
   
 <hr />
   
-## 1. OOP Attributes
+## <a name="oop-attributes">1. OOP Attributes</a>
   
 Four object attributes that unite OOP languages (and will be discussed in-depth in this guide) include:  
   
@@ -29,7 +29,7 @@ Four object attributes that unite OOP languages (and will be discussed in-depth 
 
 <hr />
   
-# 2. Special Functions and Methods
+## <a name="special-functions-and-methods">2. Special Functions and Methods</a>
   
 **Constructors versus Destructors:** Constructors are methods that initialize object state. They have the same names as the classes they operate for, and do not have return types. Destructors, on the other hand, are methods that are automatically called if an object is to be destroyed (when this will be determined varies by OOP language). Although they also contain their class names, they also have tildes (~) before their names. The OOP language *Java* has a built-in 'garbage collection' functionality that handles this behavior automatically; therefore, destructors are not necessary in that language.
   
