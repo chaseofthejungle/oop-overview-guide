@@ -5,6 +5,7 @@
   
 1. [OOP Attributes](#oop-attributes)
 2. [Special Functions and Methods](#special-functions-and-methods)
+3. [Supplemental Resource](#supplemental)
   
 <hr />
   
@@ -35,6 +36,12 @@ Four object attributes that unite OOP languages (and will be discussed in-depth 
   
 **Manipulators:** Some OOP languages (such as C++) include manipulator functions, which are used in tandem with the insertion (<<) and extraction (>>) operators to modify input and output data stream operations. A couple examples include the C++ 'endl' and 'scientific'  manipulators, which insert a newline (and flush the output stream) and format numbers to appear in scientific notation, respectively. 
 
+<hr />
+  
+## 3. <a name="supplemental">Supplemental Resource</a>
+  
+* [Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)
+  
 <hr />
   
 TODO: Add details on overloading, overriding, access modifiers, static versus nonstatic, and try/catch/finally blocks.
