@@ -5,7 +5,7 @@
   
 1. [OOP Attributes](#oop-attributes)
 2. [Special Functions and Methods](#special-functions-and-methods)
-3. [Supplemental Resource](#supplemental)
+3. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -38,9 +38,10 @@ Four object attributes that unite OOP languages (and will be discussed in-depth 
 
 <hr />
   
-## 3. <a name="supplemental">Supplemental Resource</a>
+## 3. <a name="supplemental">Supplemental Resources</a>
   
-* [Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)
+* *[Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)*
+* *[JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)*
   
 <hr />
   
