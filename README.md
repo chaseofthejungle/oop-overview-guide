@@ -42,6 +42,7 @@ Four object attributes that unite OOP languages (and will be discussed in-depth 
   
 * *[Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)*
 * *[JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)*
+* *[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)*
   
 <hr />
   
